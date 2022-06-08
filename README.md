@@ -15,16 +15,16 @@ lua
 └── clothesmod
 	├── Client
 		├── cl_admin_createclothes.lua	(Missing image fix)
-		└── cl_clothesarmory.lua		(The BIG update)
-	├── Languages 						(Added 4 new things for buttons)
-		├── chinese.lua					(Google Translated, not tested in game)
+		└── cl_clothesarmory.lua	(The BIG update)
+	├── Languages 				(Added 4 new things for buttons)
+		├── chinese.lua			(Google Translated, not tested in game)
 		├── english.lua
-		├── french.lua					(Google Translated, not tested in game)
-		├── german.lua					(Google Translated, not tested in game)
-		└── russian.lua					(Google Translated, not tested in game)
+		├── french.lua			(Google Translated, not tested in game)
+		├── german.lua			(Google Translated, not tested in game)
+		└── russian.lua			(Google Translated, not tested in game)
 	├── Server
-		└── sv_hooks.lua 				(Adds !cminv, !cinv, !wardrobe, !cmw commands)
-	└── sh_config.lua					(Changed money to $ instead of Bri'ish)
+		└── sv_hooks.lua 		(Adds !cminv, !cinv, !wardrobe, !cmw commands)
+	└── sh_config.lua			(Changed money to $ instead of Bri'ish)
 ```
 
 <p align="center" style="font-size: 20px; color: red"> REQUIRES <a href="https://www.gmodstore.com/market/view/character-clothes-t-shirt-customizable-realistic-clothes-system">Character & Clothes by Venatuss & Kerry</a> TO WORK </p>
