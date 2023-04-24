@@ -2,6 +2,7 @@
 <p align="center">
     <p align="center">
         Modifed version of <a href="https://www.gmodstore.com/market/view/character-clothes-t-shirt-customizable-realistic-clothes-system">Character & Clothes by Venatuss & Kerry</a>
+	<a style="text-decoration: none" href="https://github.com/Cats1337/characters-and-clothes">(Not for Download)</a>
     </p>
 <p align="center">
 This is a modification for the Character and Clothes addon from the Gmod Store. Replace the files with the corresponding file, not the folder.
